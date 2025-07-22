@@ -32,3 +32,18 @@ int main(){
 
     return 0;
 }
+
+/*
+output:
+Enter any integer 12
+Integer 12 and size is 4 bytes
+Enter any number with decimal 3.14
+Float 3.14 and size is 4 bytes
+Enter any word Papri
+String Papri and size is 24 bytes
+Enter any number with bigger decimal 6.654323457643
+Double 6.65434345643 and size is 8 bytes
+Enter any letter P
+Charerecter P and size is 1 bytes
+*/
+    
